@@ -36,7 +36,6 @@
 ---
 
 ## 📌 Proyectos Destacados  
-Aquí puedes añadir enlaces a tus proyectos más relevantes en GitHub:  
 
 🔹 **[ClassTreasures](https://github.com/AdrianArco/classtreasures)** - ClassTreasures es un proyecto de gamificación educativa que motiva a los alumnos mediante un sistema de cartas coleccionables y canjeables por recompensas. 
 
