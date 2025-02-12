@@ -39,6 +39,7 @@
 Aquí puedes añadir enlaces a tus proyectos más relevantes en GitHub:  
 
 🔹 **[ClassTreasures](https://github.com/AdrianArco/classtreasures)** - ClassTreasures es un proyecto de gamificación educativa que motiva a los alumnos mediante un sistema de cartas coleccionables y canjeables por recompensas. 
+
 🔹 **[ReactShot](https://github.com/AdrianArco/reactshot)** - ReactShot es una plataforma que permite la creación y gestión de mensajes multimedia con reacciones grabadas en video. Creé esta aplicación para resolver una necesidad personal: quería compartir con mis seres queridos la noticia de que mi mujer estaba embarazada y conservar sus reacciones en video como un recuerdo inolvidable.
 
 💡 _¡Siempre estoy trabajando en nuevos proyectos! 
